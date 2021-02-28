@@ -1,5 +1,5 @@
 # OSWP-Report-Template
-Here you can find my template of the OSWP Examination Report, based on the template <a href="https://help.offensive-security.com/hc/en-us/articles/360046904731-OSWP-Exam-Guide">provided by Offensive Security</a>
+Here you can find my template of the OSWP Examination Report, based on the template <a href="https://help.offensive-security.com/hc/en-us/articles/360046904731-OSWP-Exam-Guide" target="_blank">provided by Offensive Security</a>
 
 # Microsoft Word Users
 
